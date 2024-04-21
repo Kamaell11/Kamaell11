@@ -9,10 +9,10 @@
 🚀 Excited to collaborate on projects that push the boundaries of data science and drive innovation forward. Let's connect and explore the endless possibilities of data together!
 
 📫 How to reach me? Here:
-Facebook: https://www.facebook.com/kamil.skowronek2/
-Discord: Kamael11#7646
-gmail: kamilskylark@gmail.com
-linkedinL https://www.linkedin.com/in/kamil-skowronek-910204185/
+- Facebook: https://www.facebook.com/kamil.skowronek2/
+- Discord: Kamael11#7646
+- gmail: kamilskylark@gmail.com
+- linkedin: https://www.linkedin.com/in/kamil-skowronek-910204185/
 
 <!---
 Kamaell11/Kamaell11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
